@@ -2,7 +2,7 @@
 
 Aplicación web construida con **React + Vite** para calcular de forma rápida los aportes mensuales de un trabajador **dependiente** en Colombia a:
 
-- **Salud (4%)**F
+- **Salud (4%)**
 - **Pensión (16%)**
 - **ARL** (según nivel de riesgo)
 - **Caja de compensación (4%)**
@@ -76,7 +76,6 @@ Incluye validación de **IBC mínimo** (usa el **Salario Mínimo 2026** como bas
 - `npm run dev` — entorno de desarrollo
 - `npm run build` — build de producción
 - `npm run preview` — previsualización local del build
-- `npm run lint` — análisis con ESLint
 
 ---
 
@@ -84,6 +83,6 @@ Incluye validación de **IBC mínimo** (usa el **Salario Mínimo 2026** como bas
 
 - `src/main.jsx` — punto de entrada de React
 - `src/App.jsx` — interfaz y lógica principal de cálculo
-- `src/index.css` — estilos base
+- `src/index.css` — estilos
 
 ---
